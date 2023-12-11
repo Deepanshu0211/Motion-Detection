@@ -18,7 +18,7 @@ Before you begin, ensure you have the following installed:
    pip install opencv-python
 2. **clone the repository**
 
-    git clone https://github.com/deepanshu0211/motion-detection-droidcam.git
+    git clone https://github.com/deepanshu0211/motion-detection.git
     cd motion-detection-droidcam
 
 3. **Replace the placeholders in the script (motion_detection.py) with your DroidCam IP address and port:**
