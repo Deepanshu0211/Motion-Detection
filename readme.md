@@ -53,6 +53,4 @@ Before you begin, ensure you have the following installed:
     Thanks to the OpenCV community for their excellent computer vision library.
 
 
-Feel free to customize this `README.md` file further based on your preferences. Replace placeholders with your actual information and add any additional sections or details that you find relevant.
-
 
